@@ -1,0 +1,9 @@
+{
+	"name": "API-testing-demo",
+	"description": "Demonstrates API Testing with nodeunit",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"nodeunit": "0.7.x"
+	}	
+}
