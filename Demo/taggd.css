@@ -1,0 +1,9 @@
+.taggd{position:relative}
+
+.taggd__image{display:block;height:auto;width:100%;margin:0}
+
+.taggd__button{display:block;height:1em;width:1em;padding:0;border:0;margin:0;position:absolute;overflow:visible;background-color:rgba(219,50,92,0.75);background-image:none;text-align:left;border-radius: 0.5rem;}
+
+.taggd__popup { display: block;padding: .85rem;position: absolute;left:100%;top:100%;color: #fff;text-align: center;white-space: nowrap;background-color: rgba(219, 50, 92, 0.75);transform: translateX(-50%);}
+
+.taggd__button:hover {  background-color: rgb(219, 50, 92); z-index: 10;}
